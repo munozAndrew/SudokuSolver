@@ -1,6 +1,5 @@
 # SudokuSolver
 This is a Python program that solves Sudoku puzzles using backtracking and recursion.
-Usage
 ### Usage
 To use the solver, simply run the 'solver' function and pass in the Sudoku board as a 2D list, where empty cells are represented as 0. The solver will modify the original boardin place, filling in the correct values for empty cells
 ### How it Works
